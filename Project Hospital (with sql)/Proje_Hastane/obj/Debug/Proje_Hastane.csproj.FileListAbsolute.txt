@@ -1,0 +1,61 @@
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.Core.dll
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CopyComplete
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaGiris.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisler.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaDetay.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaKayıt.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBilgiDüzenle.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorGiriş.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorDetay.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorBilgiDüzenle.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDuyurular.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterGiris.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorPaneli.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBranş.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmRandevuListesi.resources
+C:\Users\metin\Desktop\Mersin ÜNİ\C# Dersleri\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterDetay.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\EntityFramework.dll
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\System.Data.SQLite.dll
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.Core.dll
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\EntityFramework.xml
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\bin\Debug\System.Data.SQLite.xml
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBilgiDüzenle.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBranş.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorBilgiDüzenle.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorDetay.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorGiriş.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorPaneli.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDuyurular.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisler.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaDetay.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaGiris.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaKayıt.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmRandevuListesi.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterGiris.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterDetay.resources
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CopyComplete
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb

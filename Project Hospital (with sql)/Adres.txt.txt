@@ -1,0 +1,1 @@
+Data Source=DESKTOP-VQIFM1S;Initial Catalog=HastaneProje;Integrated Security=True
