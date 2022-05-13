@@ -1,0 +1,1 @@
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\metin\Desktop\C# Program Ve Uygulamalarım\Ders 48_Kitaplık-Proje-Access\Kitaplık.mdb
