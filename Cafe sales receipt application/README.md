@@ -1,4 +1,4 @@
-### Kafe Satış Uygulaması
+### Cafe Satış Uygulaması
 <hr>
 <img src="1.png">
 <hr>
